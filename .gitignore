@@ -1,0 +1,38 @@
+# C / C++ 编译产物
+*.o
+*.obj
+*.exe
+*.out
+*.ilk
+*.pdb
+*.lib
+*.dll
+*.depend
+*.layout
+
+# Code::Blocks
+*.cbp.bak
+*.workspace.bak
+
+# Visual Studio
+.vs/
+Debug/
+Release/
+x64/
+x86/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# IDE / 编辑器
+.idea/
+.vscode/
+
+# 系统文件
+.DS_Store
+Thumbs.db
+desktop.ini
